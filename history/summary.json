@@ -40,18 +40,19 @@
     "url": "https://imgapiphp.arcelibs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/imgapiphp.arcelibs.repl.co.ico",
     "slug": "arcelibs-bgapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1728,
-    "timeDay": 4652,
-    "timeWeek": 3166,
-    "timeMonth": 1728,
-    "timeYear": 1728,
+    "time": 1693,
+    "timeDay": 3606,
+    "timeWeek": 3016,
+    "timeMonth": 1693,
+    "timeYear": 1693,
     "dailyMinutesDown": {
+      "2023-06-26": 0,
       "2023-06-24": 38
     }
   }
