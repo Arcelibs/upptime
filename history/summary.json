@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "good",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 220,
-    "timeWeek": 145,
-    "timeMonth": 101,
-    "timeYear": 101,
-    "dailyMinutesDown": {}
+    "time": 106,
+    "timeDay": 249,
+    "timeWeek": 164,
+    "timeMonth": 108,
+    "timeYear": 106,
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   },
   {
     "name": "Arcelibs Blog",
