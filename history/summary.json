@@ -40,7 +40,7 @@
     "url": "https://imgapiphp.arcelibs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/imgapiphp.arcelibs.repl.co.ico",
     "slug": "arcelibs-bgapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 1657,
     "timeYear": 1661,
     "dailyMinutesDown": {
+      "2023-08-26": 0,
       "2023-07-25": 34,
       "2023-07-12": 179,
       "2023-07-07": 103,
