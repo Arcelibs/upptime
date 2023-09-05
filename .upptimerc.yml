@@ -7,8 +7,6 @@ sites:
     url: https://www.google.com
   - name: Arcelibs Blog
     url: https://blog.arcelibs.com
-  - name: Arcelibs bgapi
-    url: https://imgapiphp.arcelibs.repl.co
   
 
 status-website:
