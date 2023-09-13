@@ -22,17 +22,19 @@
     "url": "https://blog.arcelibs.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.arcelibs.com.ico",
     "slug": "arcelibs-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 296,
-    "timeWeek": 273,
-    "timeMonth": 300,
-    "timeYear": 299,
-    "dailyMinutesDown": {}
+    "time": 298,
+    "timeDay": 235,
+    "timeWeek": 261,
+    "timeMonth": 296,
+    "timeYear": 298,
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   }
 ]
