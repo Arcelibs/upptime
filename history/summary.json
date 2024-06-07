@@ -24,8 +24,8 @@
     "url": "https://blog.arcelibs.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.arcelibs.com.ico",
     "slug": "arcelibs-blog",
-    "status": "up",
-    "uptime": "84.97%",
+    "status": "down",
+    "uptime": "84.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 238,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2024-06-07": 0,
       "2024-03-03": 696,
       "2023-11-07": 566,
       "2023-11-06": 1440,
