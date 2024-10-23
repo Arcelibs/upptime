@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 127,
-    "timeWeek": 107,
+    "timeDay": 94,
+    "timeWeek": 108,
     "timeMonth": 107,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.arcelibs.com.ico",
     "slug": "arcelibs-blog",
     "status": "down",
-    "uptime": "70.23%",
+    "uptime": "70.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "69.36%",
-    "time": 301,
+    "time": 300,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 323,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2024-10-22": 29,
+      "2024-10-23": 29,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -147,8 +148,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   }
 ]
