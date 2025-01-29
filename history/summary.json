@@ -4,7 +4,7 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "good",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 95,
     "timeYear": 105,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-05-01": 36
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.arcelibs.com.ico",
     "slug": "arcelibs-blog",
     "status": "down",
-    "uptime": "58.70%",
+    "uptime": "58.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.73%",
+    "uptimeYear": "46.66%",
     "time": 306,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-01-29": 29,
+      "2025-01-29": 349,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
